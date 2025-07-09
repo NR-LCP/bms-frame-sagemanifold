@@ -11,3 +11,7 @@ Future Extensions
 This code is designed to be extended with:
 1. Asymptotic expansions of metric functions, incorporating Bondi mass aspect, angular momentum aspect, shear tensor, and their evolution.
 2. Computations of non linear memory effects
+
+What is Bondi-Sachs formalism?
+
+The Bondi-Sachs formalism of General Relativity is a metric-based treatment of the Einstein equations in which the coordinates are adapted to the null geodesics of the spacetime. It provided the first convincing evidence that gravitational radiation is a nonlinear effect of general relativity and that the emission of gravitational waves from an isolated system is accompanied by a mass loss from the system. The asymptotic behaviour of the Bondi-Sachs metric revealed the existence of the symmetry group at null infinity, the Bondi-Metzner-Sachs group, which turned out to be larger than the Poincare group.
